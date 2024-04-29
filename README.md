@@ -24,7 +24,6 @@ I'm a passionate developer, tea enthusiast, and cat lover. When I'm not typing a
 
 ## Tech Stack 💻
 - **Languages**: Python, SQL, and a dash of emoji syntax 😉
-- **Frameworks**: React, Flask, and a sprinkle of magic dust ✨
 - **Tools**: VS Code, Git, and a trusty rubber duck 🦆
 
 ## Fun Facts 🌈
